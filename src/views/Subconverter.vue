@@ -345,6 +345,7 @@ export default {
           nameless13提供: "https://www.nameless13.com",
           subconverter作者提供: "https://sub.xeton.dev",
           "sub-web作者提供": "https://api.wcc.best",
+          "自定义": "https://api.pane.hidns.vip",
         },
         backendOptions: [
           { value: "https://subapi.cmliussss.net" },
